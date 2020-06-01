@@ -3,32 +3,37 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Math Bounty's documentation
-===========================
+Math Bounty's documentation home page
+======================================
 
 Contents
-========
+---------
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   self
    questions
 
-Version guide
-=================
+Introduction
+----------------------------------------------------------------
+We will describe the structure of the documentation here.
 
-Current version: 0.0.0: 
-------------------------
+Version guide
+--------------
+
+Current version: 0.0.0
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Still in testing phase, nothing functional. 
 We plan to move Math Bounty to version 0.1.0 when Math Atlas is ready for release and then to version 1.0.0 when Math Bounty is ready for release.
 
-Developer Blog
-==================
+Developer blog
+---------------
 
 May 29, 2020
-------------
+^^^^^^^^^^^^^
 Two products are planned: 
 
 1. Math Atlas, a hybrid app featuring 10-14 questions, with an interface for students to key in answers and be graded.
@@ -41,10 +46,6 @@ We have currently coding Math Atlas and plan to port the questions over to Math 
 
 term
    Definition
-
-
-subsubsection
-^^^^^^^^^^^^^
 
 .. math::
 

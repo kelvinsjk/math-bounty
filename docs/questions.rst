@@ -26,12 +26,12 @@ This question is inspired by the 2007 H2 Mathematics (9740) Paper 2 Question 2.
 
 Randomly generated elements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-*   :math:`u_n` can be of the form :math:`\frac{1}{n^2},\frac{1}{n},\frac{n-1}{n},\frac{n}{n+1},\frac{n+1}{n},` or :math:`\frac{n}{n-1}`. (6 options)
+*   :math:`u_n` can be of the form :math:`\frac{1}{n^2},\frac{1}{(n+1)^2},\frac{1}{(n-1)^2},\frac{1}{n},\frac{1}{n+1},\frac{1}{n-1},\frac{n-1}{n},\frac{n}{n+1},\frac{n+1}{n},` or :math:`\frac{n}{n-1}`. (10 options)
 *   In (ai), the question could ask for a difference between :math:`u_n` and (:math:`u_{n-1}` or :math:`u_{n+1}`) in either order. (4 options)
-*   In (aii), the bottom limit could be a number from 1 to 5 (checking to make sure such a limit is valid). (5 options)
+*   In (aii), the bottom limit could be a number from 1 to 5 (shifting if necessary to ensure such a limit is valid). (5 options)
 *   In (b), we could replace :math:`n` with :math:`n\pm 1` or :math:`n\pm 2`. (4 options)
 
-This gives the potential for up to 480 unique questions.
+This gives the potential for up to 800 unique questions.
 
 Pedagogy notes
 ~~~~~~~~~~~~~~
