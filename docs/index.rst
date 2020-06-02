@@ -12,7 +12,7 @@ Math Atlas and Math Bounty
 
    self
    math-atlas
-   questions
+   questions/index
 
 Introduction
 ----------------------------------------------------------------

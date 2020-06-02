@@ -1,14 +1,11 @@
-Questions
-=========
-
 Topic 5: the sigma notation
---------------------------------
+============================================================================
 
 Question 0501
-^^^^^^^^^^^^^
+--------------------------------
 
 The question
-~~~~~~~~~~~~
+^^^^^^^^^^^^^
 
 This question is inspired by the 2007 H2 Mathematics (9740) Paper 2 Question 2.
 
@@ -25,7 +22,8 @@ This question is inspired by the 2007 H2 Mathematics (9740) Paper 2 Question 2.
     (b) (2 marks) Use your answer to part (aii) to find :math:`\displaystyle \sum_{n=2}^N \frac{1}{n(n-1)}`
 
 Randomly generated elements
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 *   :math:`u_n` can be of the form :math:`\frac{1}{n^2},\frac{1}{(n+1)^2},\frac{1}{(n-1)^2},\frac{1}{n},\frac{1}{n+1},\frac{1}{n-1},\frac{n-1}{n},\frac{n}{n+1},\frac{n+1}{n},` or :math:`\frac{n}{n-1}`. (10 options)
 *   In (ai), the question could ask for a difference between :math:`u_n` and (:math:`u_{n-1}` or :math:`u_{n+1}`) in either order. (4 options)
 *   In (aii), the bottom limit could be a number from 1 to 5 (shifting if necessary to ensure such a limit is valid). (5 options)
@@ -34,7 +32,8 @@ Randomly generated elements
 This gives the potential for up to 800 unique questions.
 
 Pedagogy notes
-~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^
+
 The variation in numbers/algebraic terms is achieved with modifiying :math:`u_n`.
 
 The variation in the structure of the question comes from changing the order of the difference :math:`u_{n+1}-u_{n}`. We will thus see cancelation either down towards the right or down towards the left.
