@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-110 -110 220 220">
+  <g fill="none" stroke="black">
+    <line x1="-100" y1="0" x2="-100" y2="100" />
+    <line x1="100" y1="100" x2="-100" y2="100" />
+    <line x1="100" y1="100" x2="100" y2="0" />
+    <path d="M -100, 0
+        A 100 100 180 1 1 100 0 " />
+  </g>
+  <g fill="none" stroke="black" stroke-opacity="0.5">
+    <path stroke-dasharray="7" d="M-100 0 100 0" />
+    <line x1="-100" y1="95" x2="-95" y2="95" />
+    <line x1="-95" y1="100" x2="-95" y2="95" />
+    <line x1="100" y1="95" x2="95" y2="95" />
+    <line x1="95" y1="100" x2="95" y2="95" />
+  </g>
+  <text x="0" y="90" style="text-anchor:middle" font-family="serif" font-style="italic">x</text>
+  <text x="-95" y="50" style="text-anchor:start" font-family="serif" font-style="italic">y</text>
+  <text x="95" y="50" style="text-anchor:end" font-family="serif" font-style="italic">y</text>
+</svg>
