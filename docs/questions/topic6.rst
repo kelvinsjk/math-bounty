@@ -30,10 +30,10 @@ This question is inspired by the 2008 H2 Mathematics (9740) Paper 1 Question 7.
 
 Randomly generated elements
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-*   :math:`a,b` and :math:`c` (8*9*19 options)
+*   :math:`a,b` and :math:`c` (8*9*10 options)
 *   Either a semicircle or a triangle (2 options)
 
-This gives the potential for up to 2736 unique questions.
+This gives the potential for up to 1440 unique questions.
 
 Pedagogy notes
 ^^^^^^^^^^^^^^^

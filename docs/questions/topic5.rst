@@ -34,7 +34,7 @@ This gives the potential for up to 800 unique questions.
 Pedagogy notes
 ^^^^^^^^^^^^^^
 
-The variation in numbers/algebraic terms is achieved with modifiying :math:`u_n`.
+The variation in numbers/algebraic terms is achieved with modifying :math:`u_n`.
 
 The variation in the structure of the question comes from changing the order of the difference :math:`u_{n+1}-u_{n}`. We will thus see cancelation either down towards the right or down towards the left.
 
