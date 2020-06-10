@@ -24,7 +24,7 @@ This question is inspired by the 2008 H2 Mathematics (9740) Paper 1 Question 6a.
 
 Randomly generated elements
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-*   :math:`a,b` (${13 c\choose 2} - 5 = 73$ options). We choose $a,b$ such that $ab$ is not a perfect square.
+*   :math:`a,b` (${13 \choose 2} - 5 = 73$ options). We choose $a,b$ such that $ab$ is not a perfect square.
 *   We either give the student two sides and one angle, or one side and two angles (2 options).
 *   For the two angles case, either $\alpha = \frac{\pi}{4}$ or $\frac{\pi}{3}$ (2 options).
 
