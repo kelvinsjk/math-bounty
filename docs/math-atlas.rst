@@ -4,12 +4,16 @@ Math Atlas
 Version guide
 --------------------------------
 
-Current version: 0.0.6
+Current version: 0.0.7
 ^^^^^^^^^^^^^^^^^^^^^^^
-We have built and tested questions 0101 to 0501. Question 0601 is built and pending testing. Starting to design question 0701 (refer to Math Bounty Question section). 
+We have built and tested questions 0101 to 0601. Question 0701 is built and pending testing. Starting to design question 0801 (refer to Math Bounty Question section). 
 
 Previous versions: 
 ^^^^^^^^^^^^^^^^^^^^
+
+Version: 0.0.6
+~~~~~~~~~~~~~~~
+We have built and tested questions 0101 to 0501. Question 0601 is built and pending testing. Starting to design question 0701 (refer to Math Bounty Question section). 
 
 Version: 0.0.5
 ~~~~~~~~~~~~~~~

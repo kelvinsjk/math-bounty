@@ -40,6 +40,6 @@ Developer/mathematical notes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 For the question to not get too complicated (no surds during the binomial expansion step in (b) we need to generate $a,b$ such that $a,b$ is not a perfect square. The probability of the
-complement is closely related to the prime number theorem with an asymptotic probability of $C\frac{\log n}{n} + \frac{A}{n} + O(n^{-\frac{4}{3}}$. See `Noam D. Elkies' solution to this question on mathoverflow <https://mathoverflow.net/questions/279127/probability-that-product-is-a-perfect-square>`.
+complement is closely related to the prime number theorem with an asymptotic probability of $C\frac{\log n}{n} + \frac{A}{n} + O(n^{-\frac{4}{3}})$. See `Noam D. Elkies' solution to this question on mathoverflow <https://mathoverflow.net/questions/279127/probability-that-product-is-a-perfect-square>`_.
 
 We have also written a "surd simplify" function to simplify surds of the form $\sqrt{n}$ into the simplified expression $a \sqrt{b}$. Doing such a simplification is essentially the famous prime factorization problem we encounter in the P vs NP problem and in RSA cryptography. Thankfully, we are dealing with small numbers so we have simply implemented a trial division algorithm.
