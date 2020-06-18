@@ -39,13 +39,22 @@ We plan to move Math Bounty to version 0.1.0 when Math Atlas is ready for releas
 Developer blog
 ---------------
 
-Latest: Jun 1, 2020
+Latest: Jun 19, 2020
 ^^^^^^^^^^^^^^^^^^^^^
-After reading about TypeScript in the latest stackoverflow survey, we have decided to transition to TypeScript ourselves.
+We are more than halfway through content generation for Math Atlas. Typescript has been a joy to work with (for the most part) and we're slowly
+making our code more and more modular as we progress. The student input/student radio components have really helped our workflow efficiency, and 
+better understanding of the onsen-ui page loading/javascript flow process means less messy bugs as we're coding. Now the main bottleneck is in integration testing (and the testing
+of the mathematical logic underneath each question). 
+
+At the moment we're aiming to ship with 3 functionalities: an MF26 viewer, question selector by topic as well as a random question selector. 
 
 
 Previous entries
 ^^^^^^^^^^^^^^^^^
+
+Jun 1, 2020
+^^^^^^^^^^^^^^^^^^^^^
+After reading about TypeScript in the latest stackoverflow survey, we have decided to transition to TypeScript ourselves.
 
 May 29, 2020
 ~~~~~~~~~~~~

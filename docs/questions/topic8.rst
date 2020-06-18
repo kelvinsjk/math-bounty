@@ -26,9 +26,9 @@ Randomly generated elements
 *   (a) Plus or minus in the denominator (2 options)
 *   $C$ (3 options)
 *   (b) Choice of integral type (2 options).
-*   $n$ (18 options).
+*   $n$ (16 options).
 
-This gives the potential for up to 15,552 unique questions.
+This gives the potential for up to 13,824 unique questions.
 
 Pedagogy notes
 ^^^^^^^^^^^^^^^
