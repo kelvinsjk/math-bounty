@@ -81,3 +81,58 @@ term
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+Licensing
+--------------
+
+Math Atlas is developed as an open source project. The underlying code is licensed under the GNU General Public License
+v3.0 (`Link to GNU GPL v3.0 <https://choosealicense.com/licenses/gpl-3.0/>`_).
+
+Many of the questions are heavily influenced by old examination questions at the Singapore-Cambridge GCE A Level H2 Mathematics syllabus
+(in version 1.0 we have mainly referenced the 2007 and 2008 papers). No copyright is claimed for those questions and they remain the copyright of UCLES and MOE.
+
+The remaining content (newly created questions and the implementation of randomly generated elements) is licensed under
+the Creative Commons Attribution-NonCommercial-ShareAlike license (`CC BY-NC-SA <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_).
+
+Fair use
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A lot of thought has been put into the types of questions we implement for this application. Past examination questions are often one of the best
+tools for students' practice.
+
+We assert that our use of questions from the 2007/2008 papers constitute fair use based on the following:
+
+The transformative factor
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We argue that our work in introducing randomly generated elements into the questions, in addition to structuring it as a mobile/web application
+(including letting students input their answers and grading them after the attempt) is transformative. This documentation captures some of the
+analysis and commentary of the questions in how the random elements are generated.
+
+The nature of the copyrighted work
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It is often a fine line separating the non-copyrightable mathematical idea from the original and creative arrangement of a examination question. 
+We have weighed the pros and cons of crafting entirely new questions without reference vs modifying the originals and feel that the added educational
+benefit outweights the potential legal ambiguity. We feel that the public (students learning the subject/preparing for their exams) have much to benefit
+from repeated practice of past exam questions (vs a static crafted question).
+
+The amount and substantiality of the portion taken
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+While we have modified quite a substantial proportion of the 2007 examination, we argue that it should be taken in the context of all the examination question 
+throughout the years (more than 13 years worth of questions from 2007-present for the H2 Mathematics syllabus and subsequent revisions).
+
+The effect of the use upon the potential market
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Past examination questions are most commonly sold as a "ten-year-series" (TYS) featuring the latest 10 years of examination questions. The questions modified in the application
+is past this 10 years "window". In fact, we actually recommend students purchase the latest TYS for their learning and examination preparation so we contend that our application
+has minimal (or may even have some slight positive) impact on the potential market.
+
+Concluding remarks
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+While we have laid out our arguments of fair use, if you are the copyright owner and believe material has been used in an unauthorized manner, please contact us.
+
+We have modeled our fair use argument based on `this article by Rich Stim. <https://fairuse.stanford.edu/overview/fair-use/four-factors/>`_
