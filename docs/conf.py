@@ -28,7 +28,7 @@ author = 'Kelvin Soh'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-'sphinx_math_dollar','sphinx.ext.mathjax', 'sphinx.ext.imgconverter'
+'sphinx_math_dollar','sphinx.ext.mathjax', 'sphinx.ext.imgconverter', 'sphinxcontrib.fulltoc'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -50,13 +50,13 @@ html_theme='bootstrap'
 html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 # Theme options are theme-specific and customize the look and feel of a
 # theme further.
-html_sidebars = {'**': ['localtoc.html', 'sourcelink.html', 'searchbox.html']}
+html_sidebars = {'**': ['localtoc.html', 'searchbox.html']}
 html_theme_options = {
     # Navigation bar title. (Default: ``project`` value)
     #'navbar_title': "Demo",
 
     # Tab name for entire site. (Default: "Site")
-    'navbar_site_name': "Site",
+    'navbar_site_name': "Navigate Site",
 
     # A list of tuples containing pages or urls to link to.
     # Valid tuples should be in the following forms:
@@ -66,6 +66,7 @@ html_theme_options = {
     # Note the "1" or "True" value above as the third argument to indicate
     # an arbitrary url.
     #'navbar_links': [
+    #    ("Questions", "/questions/index.html", 1)
     #    ("Examples", "examples"),
     #    ("Link", "http://example.com", True),
     #],
@@ -102,7 +103,8 @@ html_theme_options = {
 
     # Location of link to source.
     # Options are "nav" (default), "footer" or anything else to exclude.
-    'source_link_position': "nav",
+    #'source_link_position': "nav",
+    'source_link_position': "false",
 
     # Bootswatch (http://bootswatch.com/) theme.
     #
@@ -119,7 +121,7 @@ html_theme_options = {
 
     # Choose Bootstrap version.
     # Values: "3" (default) or "2" (in quotes)
-    'bootstrap_version': "3",
+    'bootstrap_version': "3"
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
