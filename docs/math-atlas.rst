@@ -4,12 +4,32 @@ Math Atlas
 Version guide
 --------------------------------
 
-Current version: 0.0.7
+Current version: 0.0.13
 ^^^^^^^^^^^^^^^^^^^^^^^
-We have built and tested questions 0101 to 0601. Question 0701 is built and pending testing. Starting to design question 0801 (refer to Math Bounty Question section). 
+We are almost done with generating all the question content (left with implementation of qn1301). In between updates we have completed MF26 and the grid
+selection layout for questions (along with relevant SVGs). The implementation of the two classes: studentInput (fraction and integer modes) and studentRadio (for MCQ)
+has greatly enhanced productivity.
+
+Work left to do:
+
+*   Home page
+*   Implement random generated question
+*   About page
+*   Final feature: save progress into local storage and display statistics
+*   Bugs and revision: qn0101 check marks, qn0501 bug fix
+*   Final round of testing
+*   Implementation of cordova (back button?)
+*   Feedback page
+*   Documentation
+*   Android build
+*   Web version
 
 Previous versions: 
 ^^^^^^^^^^^^^^^^^^^^
+
+Version: 0.0.7
+~~~~~~~~~~~~~~~
+We have built and tested questions 0101 to 0601. Question 0701 is built and pending testing. Starting to design question 0801 (refer to Math Bounty Question section). 
 
 Version: 0.0.6
 ~~~~~~~~~~~~~~~
